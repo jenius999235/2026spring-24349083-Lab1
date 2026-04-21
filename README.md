@@ -1,3 +1,4 @@
+
 工作目录如下：
 OxHornCampus-master/
 ├── AppScope/                          # 应用全局配置
@@ -93,3 +94,7 @@ OxHornCampus-master/
 ├── oh-package.json5                   # 项目包配置
 ├── README.md                          # 项目说明文档
 └── LICENSE                            # 许可证文件
+
+# 2026spring-24349083-Lab1
+Lab1 for OSSD Course
+a5a1df2363746cd0654ae3f4e94230e463fc9bd5
